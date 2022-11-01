@@ -1,5 +1,7 @@
 # **ENPM Project 1 (tuktuk)**
 
+**_Disclaimer: Use of code and files from this repository for the ENPM662 Introduction to Robot Modelling at the University of Maryland will be considered as a voilation of the Honour Code for students other than those mentioned in the credits._**
+
 ## **File Tree**
 
 ```text
